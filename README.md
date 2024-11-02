@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sri mahalakshmi mareedu</h1>
+<h1 align="center">Hi 👋, I'm Sri Mahalakshmi Mareedu</h1>
 <h4 align="center">A passionate Data Analyst with a commitment to uncovering insights and driving impactful business decisions through data. I love working on projects that involve data cleaning, visualization, and analysis to create meaningful stories and strategies </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smlmareedu&label=Profile%20views&color=0e75b6&style=flat" alt="smlmareedu" /> </p>
