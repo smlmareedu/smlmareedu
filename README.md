@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smlmareedu&label=Profile%20views&color=0e75b6&style=flat" alt="smlmareedu" /> </p>
 
-- 🌱 I’m currently learning **machine learning,web scraping**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 💡 Skilled in **SQL, Power BI, Excel, and Python 🛠️ Experienced in exploratory data analysis (EDA), data cleaning, and visualization**
 
-- 📫 How to reach me **mahamareedu962@gmail.com**
+- 📫 How to reach me **srimahalakshmimareedu@01gmail.com**
 
 - 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67079cdc7ca4c4119e54be29](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6757089dd88f50109066f282)
 
