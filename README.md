@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **srimahalakshmimareedu@01gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67079cdc7ca4c4119e54be29](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6757089dd88f50109066f282)
+- 📄 Know about my experiences [RESUME_click here](https://drive.google.com/file/d/14yGOXsK2rPZwdQPpy_vrE7ySlPQTzc0J/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
